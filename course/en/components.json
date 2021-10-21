@@ -1,0 +1,1100 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س1",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">الحاجات الأساس تكون:</span></strong></span></p>",
+    "_id": "616bd711777fe31ed4afe685",
+    "_parentId": "616bc6d21aea7228c481d077",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "إختر الإجابة أو الإجابات المناسبة",
+    "_items": [
+      {
+        "text": "مشتركة",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "شخصيّة",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خاصة بكل شخص",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+    
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \">  </p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616bd716777fe31ed4afe686",
+    "_parentId": "616bc6d21aea7228c481d077",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س2",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">تتمثل حدود الضوابط والقواعد من خلال:</span></strong></span></p>",
+    "_id": "616be726d477531f4c700659",
+    "_parentId": "616be726d477531f4c700658",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "إختر الإجابة أو الإجابات المناسبة",
+    "_items": [
+      {
+        "text": "القوانين الموضوعة في المنزل",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "القوانين المحددة في المدرسة والمجتمع",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "الاتفاقات الضمنية بين الرفاق والأقران",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+     
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \"> </p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616be726d477531f4c70065a",
+    "_parentId": "616be726d477531f4c700658",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س3",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">من الضروري مواجهة الضغوطات الاجتماعية من خلال:</span></span></strong></p>",
+    "_id": "616be846d477531f4c70065d",
+    "_parentId": "616be846d477531f4c70065c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "إختر الإجابة أو الإجابات المناسبة",
+    "_items": [
+      {
+        "text": "اتباع قواعد صحية صحيحة",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "مواجهة المجموعات الشبابية التي تتناول الكحول وتستخدم المواد المخدرّة",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "الانخراط في الأعمال التطوعية",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616be846d477531f4c70065e",
+    "_parentId": "616be846d477531f4c70065c",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س4",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">الهروب واللجوء إلى أساليب مدمّرة للذات ليسا الحل لمواجهة الصعوبات الحياتية</span></strong></span></p>",
+    "_id": "616c0de7d477531f4c700665",
+    "_parentId": "616c0de7d477531f4c700664",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c0de7d477531f4c700666",
+    "_parentId": "616c0de7d477531f4c700664",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س5",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">يمكن أن تنشأ الضغوط الاجتماعية من البيئة الصغرى للشخص فقط</span></span></strong></p>",
+    "_id": "616c1fcdd477531f4c70067d",
+    "_parentId": "616c1fcdd477531f4c70067c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c1fcdd477531f4c70067e",
+    "_parentId": "616c1fcdd477531f4c70067c",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س6",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">الضغوط غير المباشرة هي عندما يعرض علينا أحدهم تناول سيجارة أو أركيلة أو مادة مخدّرة</span></strong></span></p>",
+    "_id": "616c2059d477531f4c700681",
+    "_parentId": "616c2059d477531f4c700680",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c2059d477531f4c700682",
+    "_parentId": "616c2059d477531f4c700680",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س7",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">تصبح حريتي مؤذية عندما أعرض نفسي وغيري لإزعاج أو خطر.</span></strong></span></p>",
+    "_id": "616c209ed477531f4c700685",
+    "_parentId": "616c209ed477531f4c700684",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c209ed477531f4c700686",
+    "_parentId": "616c209ed477531f4c700684",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س8",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">  إن القيَم الاجتماعية والمبادئ الاجتماعية والضمير ممكن أن تؤثر بنسبة ضئيلة في تحمل المسؤولية</span></strong></span></p>",
+    "_id": "616c21d3d477531f4c700689",
+    "_parentId": "616c21d3d477531f4c700688",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c21d3d477531f4c70068a",
+    "_parentId": "616c21d3d477531f4c700688",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س9",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">إن القيَم هي المثل العليا التي تحدد وترشد سلوك الفرد وتوجّه اختياراتنا وسلوكياتنا</span></span></strong></p>",
+    "_id": "616c223dd477531f4c70068d",
+    "_parentId": "616c223dd477531f4c70068c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>",
+      "_incorrect": {
+        "final": "\n<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c223dd477531f4c70068e",
+    "_parentId": "616c223dd477531f4c70068c",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س10",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">ممكن ان يتعرض الفرد إلى أنواع عدّة من الضغوط الاجتماعية من بينها: ضغوط مباشرة وضغوط غير مباشرة وضغوط ملحّة </span></strong></span></p>",
+    "_id": "616c22b9d477531f4c700691",
+    "_parentId": "616c22b9d477531f4c700690",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "أجب بصح أم خطأ",
+    "_items": [
+      {
+        "text": "صح ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "616c22b9d477531f4c700692",
+    "_parentId": "616c22b9d477531f4c700690",
+    "_type": "component",
+    "_layout": "left"
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "616c2419d477531f4c700694",
+    "_parentId": "616c2410d477531f4c700693",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "quiz",
+    "_retry": {
+      "button": "إعادة الاختبار",
+      "feedback": "<p dir=\"rtl\" style=\"text-align: center;\"><strong><span style=\"background-color:#99ff66\">يمكنك إعادة الاختبار!</span></strong></p>",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "<p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
+    "_bands": []
+  }
+]
