@@ -1094,7 +1094,7 @@
       "feedback": "<p dir=\"rtl\" style=\"text-align: center;\"><strong><span style=\"background-color:#99ff66\">يمكنك إعادة الاختبار!</span></strong></p>",
       "_routeToAssessment": true
     },
-    "_completionBody": "<p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
+  "_completionBody": "<p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong>إنتاج المركز التربوي للبحوث والإنماء</strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong>2021</strong></p>",
     "_bands": []
   }
 ]
